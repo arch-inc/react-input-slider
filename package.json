@@ -1,7 +1,7 @@
 {
-  "name": "react-input-slider",
+  "name": "@arch-inc/react-input-slider",
   "version": "5.1.7",
-  "description": "React input slider component",
+  "description": "React input slider component (fork)",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
   "types": "index.d.ts",
@@ -16,10 +16,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/swiftcarrot/react-input-slider.git"
+    "url": "git+https://github.com/arch-inc/react-input-slider.git"
   },
   "bugs": {
-    "url": "https://github.com/swiftcarrot/react-input-slider/issues"
+    "url": "https://github.com/arch-inc/react-input-slider/issues"
   },
   "keywords": [
     "input",
@@ -31,8 +31,8 @@
     "index.d.ts",
     "dist"
   ],
-  "author": "Wang Zuo <wangzuo@swiftcarrot.com> (https://swiftcarrot.com)",
-  "homepage": "https://swiftcarrot.dev/react-input-slider",
+  "author": "Jun Kato <i@junkato.jp> (https://junkato.jp) and Wang Zuo <wangzuo@swiftcarrot.com> (https://swiftcarrot.com)",
+  "homepage": "https://github.com/arch-inc/react-input-slider",
   "license": "MIT",
   "dependencies": {
     "@babel/runtime": "^7.9.2",
